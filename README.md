@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Project
+# E-Commerce Project
 
 Une plateforme pensée pour offrir une expérience d’achat simple, rapide et accessible, en mettant en avant des produits tendance et utiles au quotidien.
 
 ---
 
-## 🚀 Objectif
+## Objectif
 
 * proposer des produits attractifs à prix compétitifs
 * simplifier le processus d’achat
@@ -12,14 +12,14 @@ Une plateforme pensée pour offrir une expérience d’achat simple, rapide et a
 
 ---
 
-## 💡 Concept
+## Origine du concept
 
 Ce projet repose sur un modèle e-commerce moderne inspiré du dropshipping :
 les produits sont sélectionnés avec attention pour répondre aux besoins réels des utilisateurs, tout en garantissant une navigation intuitive et efficace.
 
 ---
 
-## 📸 Aperçu
+## Aperçu de l'application Web
 
 ![cap1](/capture/cap1.png)
 ![cap2](/capture/cap2.png)
@@ -30,14 +30,14 @@ les produits sont sélectionnés avec attention pour répondre aux besoins réel
 
 ---
 
-## ⚙️ Technologies
+## Technologies utilise
 
 * Next.js
 * Tailwind CSS
 
 ---
 
-## 🎯 Vision
+## Vision futur
 
 Créer une boutique en ligne capable de :
 
@@ -47,12 +47,5 @@ Créer une boutique en ligne capable de :
 
 ---
 
-## 📌 Statut
-
-En cours de développement.
-
----
-
-## 🔗 Accès
 
 npm run dev
